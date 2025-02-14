@@ -25,9 +25,6 @@ I'm a Junior Computer Science student at Texas A&M University with experience in
 - **Technologies Used**: Python, python-pptx  
 - Automated the creation of PowerPoint slides for worship lyrics, reducing manual workload by **40%** while ensuring consistent formatting.  
 
-
-## Skills  
-
 ## Skills  
 - **Programming Languages**:  
   - C++ (🔵🔵🔵🔵⚪)  
@@ -47,5 +44,4 @@ I'm a Junior Computer Science student at Texas A&M University with experience in
 - Resolved technical challenges for **10+ residents daily**, troubleshooting software and network issues efficiently.  
 
 ## Contact Me  
-(972) - 654 - 5152  
-[Email](mailto:simonsong23@gmail.com) | [LinkedIn](https://www.linkedin.com/in/simon-song-141421289/)
+(972) - 654 - 5152 | [Email](mailto:simonsong23@gmail.com) | [LinkedIn](https://www.linkedin.com/in/simon-song-141421289/)
