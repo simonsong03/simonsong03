@@ -13,10 +13,6 @@ I'm a Junior Computer Science student at Texas A&M University with experience in
 - **Technologies Used**: Python, Streamlit, XGBoost, Kaggle  
 - Built a chatbot interface for symptom-based disease diagnostics with a 90% accuracy using a **dataset of 132,000+ symptoms and diseases**.  
 
-### [TAMU Datathon - Connections Solver](https://github.com/Venler34/ConnectionsDatathon)
-- **Technologies Used**: Java, Machine Learning  
-- Built a model using Word2Vec to solve word association problems with **70% accuracy**.  
-
 ### [Personal Website](https://github.com/CSCE331-Fall2024/personal-website-sson5747)  
 - **Technologies Used**: HTML, CSS, JavaScript  
 - Designed a responsive personal website with smooth navigation, incorporating generative AI for dynamic content.   
