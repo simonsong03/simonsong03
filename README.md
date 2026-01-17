@@ -35,7 +35,7 @@
 - Developed a Laravel application integrating the Google Speech API for speech-to-text and text-to-speech automation
 - Implemented configurable voice generation features to support automated workflows at 4Voice
 
-### **[NBA-Wordle](https://github.com/simonsong03)** | Personal (Deployed)
+### **[NBA-Wordle](https://github.com/simonsong03/nba-guess-game)** | Personal (Deployed)
 **📍 College Station, Texas** | *January 2026*  
 **Technologies:** React, FastAPI, Nba_api, Cursor AI
 
