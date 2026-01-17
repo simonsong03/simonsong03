@@ -2,18 +2,6 @@
 
 **📍 Frisco, TX** | **📧 sson5747@tamu.edu** | **📱 (972) 654-5152** | **💻 [GitHub](https://github.com/simonsong03)**
 
----
-
-## 👋 About Me
-
-I'm a Senior Computer Science student at Texas A&M University, graduating in May 2026 with a Bachelor of Science in Computer Science. With a GPA of 3.74/4.0, I'm passionate about building full-stack applications, implementing machine learning solutions, and optimizing systems through automation.
-
-My experience spans backend development, database management, and collaborative software engineering. I enjoy solving complex problems, delivering production-ready features, and leveraging technology to streamline workflows. Whether it's building RESTful APIs, developing ML-powered applications, or automating manual processes, I'm driven by creating efficient and impactful solutions.
-
-When I'm not coding, I lead worship services at Asian American Intervarsity and manage a 24/7 help desk. I'm also an avid NBA fan and have some pretty interesting stories—like having a career high in points that beats LeBron James'!
-
----
-
 ## 💼 Experience
 
 ### **Software Engineer Intern** | 4Voice
